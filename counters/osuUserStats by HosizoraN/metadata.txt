@@ -1,7 +1,0 @@
-Usecase: obs-overlay
-Name: osuUserStats
-Version: 1.001
-Author: HosizoraN
-CompatibleWith: tosu
-Resolution: 1300x315
-authorLinks: https://github.com/HosizoraN

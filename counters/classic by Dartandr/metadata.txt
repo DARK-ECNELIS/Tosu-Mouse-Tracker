@@ -1,7 +1,0 @@
-Usecase: ingame, obs-overlay
-Name: classic
-Version: 1.001
-Author: Dartandr
-CompatibleWith: gosu, tosu
-Resolution: 540x310
-authorLinks: https://github.com/Dartandr

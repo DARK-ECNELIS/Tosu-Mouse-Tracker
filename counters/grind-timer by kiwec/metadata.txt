@@ -1,6 +1,0 @@
-Usecase: ingame,obs-overlay
-Name: grind-timer
-Version: 1.4
-Author: kiwec
-CompatibleWith: tosu
-Resolution: 500x100

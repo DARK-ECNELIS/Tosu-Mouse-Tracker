@@ -1,7 +1,0 @@
-Usecase: ingame, obs-overlay
-Name: osuLike Overlay
-Version: 1.002
-Author: Dartandr
-CompatibleWith: gosu, tosu
-Resolution: -1x-1
-authorLinks: https://github.com/Dartandr

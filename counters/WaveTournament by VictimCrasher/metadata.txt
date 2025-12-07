@@ -1,7 +1,0 @@
-Usecase: ingame, obs-overlay
-Name: WaveTournament
-Version: 1.001
-Author: VictimCrasher
-CompatibleWith: gosu, tosu
-Resolution: 1920x1080
-authorLinks: https://github.com/VictimCrasher

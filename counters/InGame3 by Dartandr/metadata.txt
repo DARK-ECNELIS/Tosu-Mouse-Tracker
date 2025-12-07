@@ -1,7 +1,0 @@
-Usecase: ingame, obs-overlay
-Name: InGame3
-Version: 1.003
-Author: Dartandr
-CompatibleWith: gosu, tosu
-Resolution: 190x100
-authorLinks: https://github.com/Dartandr

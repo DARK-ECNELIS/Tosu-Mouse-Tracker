@@ -1,7 +1,0 @@
-Usecase: ingame, obs-overlay
-Name: OldClassic
-Version: 1.002
-Author: Dartandr
-CompatibleWith: gosu, tosu
-Resolution: 500x190
-authorLinks: https://github.com/Dartandr
